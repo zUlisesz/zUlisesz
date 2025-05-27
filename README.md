@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zUlisesz
 - 👀 I’m interested in maths and programming 
 - 🌱 I’m currently learning computer science 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Front-End
 - ⚡ Fun fact: I still loving cartoons, videogames and toys
