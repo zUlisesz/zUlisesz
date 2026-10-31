@@ -1,6 +1,6 @@
 <div align="center">
 
-# ¡Hola, soy Ulises! 👋
+# ¡It´s Ulises!
 
 **Me gustan las matemáticas, la programación y crear cosas útiles.**
 
